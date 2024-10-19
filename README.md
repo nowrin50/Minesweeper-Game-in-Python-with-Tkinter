@@ -10,6 +10,7 @@ This project is an implementation of the classic Minesweeper game using Python a
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
 - [License](#license)
+-  [Database Setup](#database-setup)
 
 ## Features
 - **Graphical User Interface**: Built with Tkinter for a visual gaming experience.
