@@ -1,6 +1,6 @@
 # Minesweeper Game in Python with Tkinter
 
-This project is an implementation of the classic Minesweeper game using Python and the Tkinter library. The game follows an Object-Oriented Programming (OOP) approach and provides a graphical user interface for a more engaging experience.It also has database to record. 
+This project is an implementation of the classic Minesweeper game using Python and the Tkinter library. The game follows an Object-Oriented Programming (OOP) approach and provides a graphical user interface for a more engaging experience. It also has database to record. 
 
 ## Table of Contents
 - [Features](#features)
